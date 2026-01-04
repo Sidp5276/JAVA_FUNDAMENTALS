@@ -1,5 +1,5 @@
 package Phase_01;
-
+//Check if a number is even or odd.
     import java.util.Scanner;
 
     public class Q_02_Eveodd {
