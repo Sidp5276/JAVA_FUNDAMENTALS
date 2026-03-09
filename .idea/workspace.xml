@@ -4,12 +4,79 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="373e68c7-22ea-4791-ae6d-4edcd487b64a" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_FUNDAMENTALS.iml" afterDir="false" />
+    <list default="true" id="373e68c7-22ea-4791-ae6d-4edcd487b64a" name="Changes" comment="Recursion 1 to n">
+      <change afterPath="$PROJECT_DIR$/src/Array/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_01_PositiveNegative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_01_PositiveNegative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_02_Eveodd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_02_Eveodd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_03_DivisibleByFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_03_DivisibleByFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_04_Divisible3n5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_04_Divisible3n5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_05_LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_05_LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_06_LargerNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_06_LargerNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_07_LargestofThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_07_LargestofThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_08_TemperatureCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_08_TemperatureCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_09_VowelOrConsonant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_09_VowelOrConsonant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_10_CharacterCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_10_CharacterCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_11_TriangleCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_11_TriangleCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_12_MultipleCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_12_MultipleCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_13_Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_13_Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_14_GreetingByHour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_14_GreetingByHour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_15_VoteEligibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_15_VoteEligibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_16_AlphaChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_16_AlphaChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_17_Day1to7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_17_Day1to7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_18_DaysInMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_18_DaysInMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_19_DistinctDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_19_DistinctDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_20_MiddleDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_20_MiddleDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_21_EqualDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_21_EqualDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_22_DigitCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_22_DigitCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_23_Multipleof7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_23_Multipleof7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_24_CoordinatesXY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_24_CoordinatesXY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_25_CurrencyDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_25_CurrencyDivision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_26_Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_26_Range.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_27_TriangleCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_27_TriangleCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_28_Perfectsquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_28_Perfectsquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_29_CharCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_29_CharCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_30_FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_30_FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_31_MedianValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_31_MedianValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_32_TimeFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_32_TimeFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_33_TaxEligibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_33_TaxEligibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_34_CheckNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_34_CheckNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_35_GP_Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_35_GP_Check.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_01/Q_36_DigitCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_01_Conditional/Q_36_DigitCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q10_ReverseNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q10_ReverseNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q11_Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q11_Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q12_DigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q12_DigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q13_Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q13_Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q14_PrintSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q14_PrintSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q15_Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q15_Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q16_PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q16_PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q17_Factors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q17_Factors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q18_SquareStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q18_SquareStar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q19_TriangleStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q19_TriangleStar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q1_1to10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q1_1to10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q20_RightAlignedTri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q20_RightAlignedTri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q21_Pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q21_Pyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q22_RepeatedNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q22_RepeatedNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q23_IncreaseSeq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q23_IncreaseSeq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q24_AlphabetTri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q24_AlphabetTri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q25_PalindromePyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q25_PalindromePyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q26_Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q26_Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q27_nFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q27_nFibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q28_HCF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q28_HCF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q29_LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q29_LCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q2_Even.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q2_Even.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q30_ArithmeticProgression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q30_ArithmeticProgression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q31_GeometricProgression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q31_GeometricProgression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q32_countDivisible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q32_countDivisible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q33_SkipZerosum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q33_SkipZerosum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q3_Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q3_Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q4_N_NaturalNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q4_N_NaturalNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q5_SumEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q5_SumEvenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q6_FactorialLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q6_FactorialLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q7_1to100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q7_1to100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q8_10to1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q8_10to1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phase_02/Q9_1to100Odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phase_02_Loops_Patterns/Q9_1to100Odd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/phase_03/Q1_1_to_n.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/phase_03_Recursion/Q1_1_to_n.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,57 +93,154 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sidp5276"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sidp5276&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sidp5276/JAVA_FUNDAMENTALS.git",
-    "accountId": "0c246472-7e6a-4db7-b862-d0119c738dbb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sidp5276/JAVA_FUNDAMENTALS.git&quot;,
+    &quot;accountId&quot;: &quot;0c246472-7e6a-4db7-b862-d0119c738dbb&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="37kyn5mOryrUYD0Fe77C6bP6ek5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Q_01_PositiveNegative.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/hp/IdeaProjects/JAVA_FUNDAMENTALS/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab_3_Count_VowelConsonant.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q10_ArrayUniquePair.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q10_FrequentChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q10_LargeFactorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q10_ReverseNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q10_SumofDigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q11_Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q11_RecursionFactorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q12_DigitSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q12_ReverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q13_Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q13_SumOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q14_FibonacciSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q14_PrintSquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q15_Cube.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q15_kmToMiles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q16_NumberCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q16_PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q17_Factors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q18_SquareStar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q19_RightAlignedTri.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q19_TriangleStar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1_1_to_n.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1_1to10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1_1to100.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1_Even_odd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1_Length.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1_SquarePattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q21_Pyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q22_IncreaseSeq.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q23_IncreaseSeq.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q24_AlphabetTri.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q25_PalindromePyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q26_Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q27_nFibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q28_HCF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q29_LCM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2_Even.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2_Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2_RightTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2_Sum1ton.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q30_ArithmeticProgression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q31_GeometricProgression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q32_countDivisible.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q33_SkipZerosum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q3_Even_1ton.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q3_InvertedRightTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q3_Table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q4_Multiply.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q4_N_NaturalNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q4_NumberOfWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q4_SwapNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q4_Table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q5_Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q5_Largein3num.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q5_RemoveSpace.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q5_RowNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q5_SumEvenNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q6_CountDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q6_FactorialLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q6_LowerUpperCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q6_PrintTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q6_RowRepeatNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q7_1to100.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q7_Circle_Radius.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q7_Count.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q7_Divide3n5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q7_HollowSquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q8_10to1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q8_Factors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q8_Pyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q8_Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q8_StringEqual.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q9_1to100Odd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q9_ArrayNested.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q9_Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q9_ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q9_SquareNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_01_PositiveNegative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_02_Eveodd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_03_DivisibleByFive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_04_Divisible3n5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_05_LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_06_LargerNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_07_LargestOfThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_07_LargestofThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_08_TemperatureCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_09_VowelOrConsonant.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_10_CharacterCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_14_GreetingByHour.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_15_VoteEligibility.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_16_AlphaChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_17_Day1to7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_18_DaysInMonth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_19_DistinctDigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_20_MiddleDigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_21_EqualDigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_22_DigitCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_23_Multipleof7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_24_CoordinatesXY.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_25_CurrencyDivision.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_26_Range.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_27_TriangleCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_28_Perfectsquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_29_CharCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_30_FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_31_MedianValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_32_clock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_33_TaxEligibility.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_34_CheckNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_35_GP_Check.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_36_DigitCheck.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/hp/IdeaProjects/JAVA_FUNDAMENTALS/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Q_01_PositiveNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Phase_01.Q_01_PositiveNegative" />
-      <module name="JAVA_FUNDAMENTALS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Phase_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Q_01_PositiveNegative" />
-      </list>
-    </recent_temporary>
-  </component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="373e68c7-22ea-4791-ae6d-4edcd487b64a" name="Changes" comment="" />
@@ -85,20 +249,428 @@
       <option name="presentableId" value="Default" />
       <updated>1767461530660</updated>
     </task>
-    <task id="LOCAL-00001" summary="init commit">
+    <task id="LOCAL-00067" summary="largest number">
       <option name="closed" value="true" />
-      <created>1767461794497</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+      <created>1770910147635</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
       <option name="project" value="LOCAL" />
-      <updated>1767461794497</updated>
+      <updated>1770910147635</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00068" summary="table">
+      <option name="closed" value="true" />
+      <created>1770915264545</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1770915264547</updated>
+    </task>
+    <task id="LOCAL-00069" summary="circle radius">
+      <option name="closed" value="true" />
+      <created>1770915970736</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1770915970736</updated>
+    </task>
+    <task id="LOCAL-00070" summary="divisors">
+      <option name="closed" value="true" />
+      <created>1771002385653</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1771002385657</updated>
+    </task>
+    <task id="LOCAL-00071" summary="factorial">
+      <option name="closed" value="true" />
+      <created>1771003122586</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1771003122586</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Large factorial">
+      <option name="closed" value="true" />
+      <created>1771003656163</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1771003656163</updated>
+    </task>
+    <task id="LOCAL-00073" summary="recursion factorial">
+      <option name="closed" value="true" />
+      <created>1771004000482</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1771004000482</updated>
+    </task>
+    <task id="LOCAL-00074" summary="reverse number">
+      <option name="closed" value="true" />
+      <created>1771004458370</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1771004458370</updated>
+    </task>
+    <task id="LOCAL-00075" summary="digit sum">
+      <option name="closed" value="true" />
+      <created>1771004968743</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1771004968744</updated>
+    </task>
+    <task id="LOCAL-00076" summary="fibonacci numbers">
+      <option name="closed" value="true" />
+      <created>1771005150073</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1771005150079</updated>
+    </task>
+    <task id="LOCAL-00077" summary="km to miles">
+      <option name="closed" value="true" />
+      <created>1771006169473</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1771006169477</updated>
+    </task>
+    <task id="LOCAL-00078" summary="number check">
+      <option name="closed" value="true" />
+      <created>1771006355098</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1771006355098</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Gp check">
+      <option name="closed" value="true" />
+      <created>1771090117748</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1771090117748</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Digit check">
+      <option name="closed" value="true" />
+      <created>1771090339208</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1771090339208</updated>
+    </task>
+    <task id="LOCAL-00081" summary="1 to 10">
+      <option name="closed" value="true" />
+      <created>1771170178482</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1771170178482</updated>
+    </task>
+    <task id="LOCAL-00082" summary="1 to 100 even">
+      <option name="closed" value="true" />
+      <created>1771171481956</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1771171481956</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Table">
+      <option name="closed" value="true" />
+      <created>1771172179290</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1771172179290</updated>
+    </task>
+    <task id="LOCAL-00084" summary="N natural number">
+      <option name="closed" value="true" />
+      <created>1771172997227</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1771172997227</updated>
+    </task>
+    <task id="LOCAL-00085" summary="sum even number">
+      <option name="closed" value="true" />
+      <created>1771260955703</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1771260955703</updated>
+    </task>
+    <task id="LOCAL-00086" summary="factorial">
+      <option name="closed" value="true" />
+      <created>1771261213104</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1771261213104</updated>
+    </task>
+    <task id="LOCAL-00087" summary="1 to 100">
+      <option name="closed" value="true" />
+      <created>1771313345370</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1771313345372</updated>
+    </task>
+    <task id="LOCAL-00088" summary="10 to 1">
+      <option name="closed" value="true" />
+      <created>1771313358217</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1771313358217</updated>
+    </task>
+    <task id="LOCAL-00089" summary="1 to 100 odd">
+      <option name="closed" value="true" />
+      <created>1771318253362</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1771318253368</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Reversed num">
+      <option name="closed" value="true" />
+      <created>1771318779517</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1771318779519</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Palindrome">
+      <option name="closed" value="true" />
+      <created>1771335569683</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1771335569688</updated>
+    </task>
+    <task id="LOCAL-00092" summary="digit sum">
+      <option name="closed" value="true" />
+      <created>1771346212580</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1771346212584</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Fibonacci">
+      <option name="closed" value="true" />
+      <created>1771346933372</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1771346933375</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Square">
+      <option name="closed" value="true" />
+      <created>1771347378037</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1771347378037</updated>
+    </task>
+    <task id="LOCAL-00095" summary="cube">
+      <option name="closed" value="true" />
+      <created>1771347559360</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1771347559366</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Prime number">
+      <option name="closed" value="true" />
+      <created>1771348543071</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1771348543071</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Square star">
+      <option name="closed" value="true" />
+      <created>1771416126069</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1771416126069</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Triangle star">
+      <option name="closed" value="true" />
+      <created>1771416488451</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1771416488455</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Right aligned Triangle star">
+      <option name="closed" value="true" />
+      <created>1771417260102</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1771417260102</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Pyramid">
+      <option name="closed" value="true" />
+      <created>1771425307138</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1771425307138</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Triangle">
+      <option name="closed" value="true" />
+      <created>1771425327152</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1771425327152</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Right Aligned Triangle">
+      <option name="closed" value="true" />
+      <created>1771425349182</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1771425349182</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Repeated Numbers">
+      <option name="closed" value="true" />
+      <created>1771425813668</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1771425813670</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Increase Sequence">
+      <option name="closed" value="true" />
+      <created>1771426452298</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1771426452298</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Alphabet Triangle">
+      <option name="closed" value="true" />
+      <created>1771427335477</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1771427335477</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Palindrome pyramid">
+      <option name="closed" value="true" />
+      <created>1771428260567</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1771428260570</updated>
+    </task>
+    <task id="LOCAL-00107" summary="fibonacci">
+      <option name="closed" value="true" />
+      <created>1771514330613</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1771514330613</updated>
+    </task>
+    <task id="LOCAL-00108" summary="n Fibonacci">
+      <option name="closed" value="true" />
+      <created>1771567908239</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1771567908243</updated>
+    </task>
+    <task id="LOCAL-00109" summary="HCF">
+      <option name="closed" value="true" />
+      <created>1771567919740</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1771567919742</updated>
+    </task>
+    <task id="LOCAL-00110" summary="LCM">
+      <option name="closed" value="true" />
+      <created>1771568699379</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1771568699379</updated>
+    </task>
+    <task id="LOCAL-00111" summary=" n terms Arithmetic Progression">
+      <option name="closed" value="true" />
+      <created>1771569296264</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1771569296264</updated>
+    </task>
+    <task id="LOCAL-00112" summary=" n terms Geometric Progression">
+      <option name="closed" value="true" />
+      <created>1771589804654</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1771589804654</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Count Divisible">
+      <option name="closed" value="true" />
+      <created>1771590214385</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1771590214385</updated>
+    </task>
+    <task id="LOCAL-00114" summary="SKip zero sum">
+      <option name="closed" value="true" />
+      <created>1771590556328</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1771590556331</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Recursion 1 to n">
+      <option name="closed" value="true" />
+      <created>1771673092359</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1771673092361</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="Palindrome" />
+    <MESSAGE value="digit sum" />
+    <MESSAGE value="Fibonacci" />
+    <MESSAGE value="Square" />
+    <MESSAGE value="cube" />
+    <MESSAGE value="Prime number" />
+    <MESSAGE value="Square star" />
+    <MESSAGE value="Triangle star" />
+    <MESSAGE value="Right aligned Triangle star" />
+    <MESSAGE value="Pyramid" />
+    <MESSAGE value="Triangle" />
+    <MESSAGE value="Right Aligned Triangle" />
+    <MESSAGE value="Repeated Numbers" />
+    <MESSAGE value="Increase Sequence" />
+    <MESSAGE value="Alphabet Triangle" />
+    <MESSAGE value="Palindrome pyramid" />
+    <MESSAGE value="fibonacci" />
+    <MESSAGE value="n Fibonacci" />
+    <MESSAGE value="HCF" />
+    <MESSAGE value="LCM" />
+    <MESSAGE value=" n terms Arithmetic Progression" />
+    <MESSAGE value=" n terms Geometric Progression" />
+    <MESSAGE value="Count Divisible" />
+    <MESSAGE value="SKip zero sum" />
+    <MESSAGE value="Recursion 1 to n" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursion 1 to n" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -107,6 +679,21 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Phase_01_Conditional/Q_03_DivisibleByFive.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Phase_01_Conditional/Q_25_CurrencyDivision.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Example_Program/Q14_FibonacciSeries.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
