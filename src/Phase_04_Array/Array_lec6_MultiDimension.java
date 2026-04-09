@@ -1,6 +1,6 @@
 package Phase_04_Array;
 import java.util.Scanner;
-import java.util.ArrayList;
+import java.util.Arrays;
 public class Array_lec6_MultiDimension {
     public static void main(String[] args) {
         /*
@@ -43,7 +43,7 @@ public class Array_lec6_MultiDimension {
 //        }
 
         for(int[] a : arr) {
-            System.out.println(array.toString(a));
+            System.out.println(Arrays.toString(a));
         }
     }
 }
