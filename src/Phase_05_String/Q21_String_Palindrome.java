@@ -1,6 +1,6 @@
 package Phase_05_String;
 import java.util.Scanner;
-public class Q_21_String_Palindrome {
+public class Q21_String_Palindrome {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a string : ");
