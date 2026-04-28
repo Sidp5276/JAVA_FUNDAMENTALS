@@ -1,6 +1,6 @@
 package OOPS;
 
-public class Inheritance {
+public class Q3_Inheritance {
 
     static class Vehicle {
         String brand;

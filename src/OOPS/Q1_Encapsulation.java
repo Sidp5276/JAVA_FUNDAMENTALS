@@ -1,6 +1,6 @@
 package OOPS;
 
-public class Encapsulation {
+public class Q1_Encapsulation {
 
     public class BankAccount {
 

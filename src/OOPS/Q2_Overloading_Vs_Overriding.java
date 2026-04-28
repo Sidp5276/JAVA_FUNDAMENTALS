@@ -1,6 +1,6 @@
 package OOPS;
 
-public class Overloading_Vs_Overriding {
+public class Q2_Overloading_Vs_Overriding {
 
         static class Calculator {
             public int add(int a, int b) {
