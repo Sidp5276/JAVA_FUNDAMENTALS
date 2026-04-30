@@ -1,4 +1,4 @@
-package OOPS;
+package OOPS.Class_Object;
 
 public class Class_Object_1 {
     static class Laptop {
