@@ -1,6 +1,6 @@
-package OOPS;
+package OOPS.POLYMORPHISM;
 
-public class Polymosrphism {
+public class Polymorphism {
 
     //Compile time polymorphism
 
