@@ -1,7 +1,7 @@
 package HASHSET;
 import java.util.HashSet;
 
-public class Q4_RepeatingCharacter {
+public class Q5_RepeatingCharacter {
     static void main(String[] args) {
         String input = "codingpractice";
         Character result = findFirstRepeating(input);
