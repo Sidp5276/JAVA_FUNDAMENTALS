@@ -1,8 +1,10 @@
 package Phase_02_Loops_Patterns;
-
+import java.util.Scanner;
 public class Q18_SquareStar {
     public static void main(String[] args) {
-        int n = 5;
+    Scanner sc = new Scanner(System.in);
+    System.out.println("Enter a number: ");
+    int n = sc.nextInt();
 
         for (int i = 1; i <= n; i++) {
 
